@@ -1,1 +1,1 @@
-# 3D-graph-Chemical-Equilibrium
+# 3D-Graph-Chemical-Equilibrium
